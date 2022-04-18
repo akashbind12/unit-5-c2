@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "first_name": "akash",
+      "last_name": "bind",
+      "email": "akashbind12@gmail.com",
+      "gender": "male",
+      "age": "21",
+      "tenth_score": "80",
+      "twelth_score": "70",
+      "preferred_branch": "science",
+      "id": 1
+    },
+    {
+      "first_name": "vikash",
+      "last_name": "bind",
+      "email": "vikasbind12@gmail.com",
+      "gender": "male",
+      "age": "25",
+      "tenth_score": "60",
+      "twelth_score": "50",
+      "preferred_branch": "science",
+      "id": 2
+    },
+    {
+      "first_name": "vikash",
+      "last_name": "bind",
+      "email": "vikasbind12@gmail.com",
+      "gender": "male",
+      "age": "",
+      "tenth_score": "60",
+      "twelth_score": "50",
+      "preferred_branch": "science",
+      "id": 3
+    },
+    {
+      "first_name": "vandana",
+      "last_name": "bind",
+      "email": "gbind309@gmail.com",
+      "gender": "female",
+      "age": "18",
+      "tenth_score": "60",
+      "twelth_score": "80",
+      "preferred_branch": "commerce",
+      "id": 4
+    },
+    {
+      "first_name": "gunja",
+      "last_name": "kewat",
+      "email": "gbind309@gmail.com",
+      "gender": "male",
+      "age": "23",
+      "tenth_score": "70",
+      "twelth_score": "49",
+      "preferred_branch": "commerce",
+      "id": 5
+    }
+  ]
+}
